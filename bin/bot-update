@@ -1,0 +1,3 @@
+(cd ~/gainsbot && git pull origin main)
+
+echo 'if the update finishes OK, remember restart the bot with "bot-restart"'

@@ -1,0 +1,17 @@
+{
+  "walletAddress": "",
+  "walletPrivateKey": "",
+  "maxForDeal": 200,
+  "BscProvider": "https://bsc-dataseed1.binance.org",
+  "BscChainID": "56",
+  "BscGasPriceGwei": 6,
+  "gainsInvestAddress": "0x3b930589c09aA4FB840E56342980468EA3341A21",
+  "gainsApiUrlBase": "https://api.gains-associates.com/api/",
+  "gainsUpdateInterval": 3600,
+  "usdcAddress": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+  "gainsUserToken": "",
+  "lastUpdated": "2022-01-29T21:54:19.705Z",
+  "pledgedPools": [],
+  "investPools": [],
+  "allPools": []
+}
