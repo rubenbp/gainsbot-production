@@ -1,7 +1,7 @@
 {
   "walletAddress": "",
   "walletPrivateKey": "",
-  "maxForDeal": 200,
+  "maxForDeal": 100,
   "BscProvider": "https://bsc-dataseed1.binance.org",
   "BscChainID": "56",
   "BscGasPriceGwei": 6,
