@@ -1,0 +1,10 @@
+#!/usr/bin/env node
+
+const path = require('path');
+const moment = require('moment');
+const config = require(path.resolve(__dirname, '..', 'config.json'));
+
+console.log(
+  'Gains last deals update: ' +
+    moment(config.lastUpdated).format('MMMM Do YYYY, HH:mm:ss')
+);

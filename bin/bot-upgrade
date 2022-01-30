@@ -1,0 +1,1 @@
+(cd ~/gainsbot && git pull origin main && chmod +x ./bin/* && yarn && bot-restart)

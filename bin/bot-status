@@ -1,1 +1,3 @@
 pm2 list
+echo ''
+~/gainsbot/bin/bot-last-gains-update
