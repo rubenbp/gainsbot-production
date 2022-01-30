@@ -3,4 +3,4 @@
 const path = require('path');
 const package = require(path.resolve(__dirname, '..', 'package.json'));
 
-console.log('Gains bot version: ' + package.version);
+console.log('v' + package.version);
