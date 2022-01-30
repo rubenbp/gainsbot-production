@@ -1,1 +1,1 @@
-(cd ~/gainsbot && git pull origin main && chmod +x ./bin/* && yarn && restart-all)
+(cd ~/gainsbot && git reset --hard && git pull origin main && chmod +x ./bin/* && yarn && restart-all)
