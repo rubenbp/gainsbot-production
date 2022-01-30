@@ -1,9 +1,11 @@
 {
   "name": "gainsbot-production",
-  "version": "0.2.3",
+  "version": "0.3.0",
+  "license": "UNLICENSED",
   "dependencies": {
     "@ethereumjs/common": "^2.6.0",
     "@ethereumjs/tx": "^3.4.0",
+    "crypto-js": "^4.1.1",
     "data-store": "^4.0.3",
     "ethereumjs-tx": "^2.1.2",
     "inquirer": "^8.2.0",
