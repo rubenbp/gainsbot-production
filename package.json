@@ -1,6 +1,6 @@
 {
   "name": "gainsbot-production",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "license": "UNLICENSED",
   "dependencies": {
     "@ethereumjs/common": "^2.6.0",
