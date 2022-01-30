@@ -1,7 +1,6 @@
 {
   "name": "gainsbot-production",
-  "description": "Bot to investing Gains",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "dependencies": {
     "@ethereumjs/common": "^2.6.0",
     "@ethereumjs/tx": "^3.4.0",
