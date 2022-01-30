@@ -1,1 +1,1 @@
-pm2 start ~/gainsbot/bot.js --name monitor -- --monitor
+pm2 start ~/gainsbot/bot.js --name monitor --update-env -- --monitor
