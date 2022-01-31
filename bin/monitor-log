@@ -1,1 +1,1 @@
-pm2 log monitor --lines 500
+pm2 log monitor --lines 200 --nostream
