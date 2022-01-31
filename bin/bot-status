@@ -2,4 +2,4 @@ pm2 list
 echo ''
 ~/gainsbot/bin/bot-last-gains-update
 echo ''
-pm2 log bot
+pm2 log bot --nostream
