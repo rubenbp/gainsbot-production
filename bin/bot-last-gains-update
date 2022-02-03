@@ -1,1 +1,1 @@
-node ~/gainsbot/bot.js --name token
+(cd ~/gainsbot/ && node bot.js --token)
