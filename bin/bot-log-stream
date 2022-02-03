@@ -1,1 +1,1 @@
-pm2 log bot --lines 200
+pm2 log bot --lines 50 --raw
