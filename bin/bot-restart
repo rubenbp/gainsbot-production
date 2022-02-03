@@ -1,1 +1,1 @@
-pm2 restart bot
+pm2 restart bot --update-env
