@@ -1,0 +1,8 @@
+#!/usr/bin/env node
+
+const path = require('path');
+const config = require(path.resolve(process.env.BOT_PATH ?? '', 'config.json'));
+
+console.log('');
+console.log('Última actualización Gains: ' + config.lastUpdated);
+console.log('Última actualización Bot: ' + config.lastGetPools);
