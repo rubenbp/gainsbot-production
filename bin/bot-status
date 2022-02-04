@@ -2,4 +2,4 @@ pm2 list
 echo ''
 ~/gainsbot/bin/bot-token
 echo ''
-pm2 log bot --nostream
+pm2 log bot --nostream --raw
